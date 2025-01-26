@@ -7,3 +7,5 @@ I
 contracts/skills-nft.clar,e/b/ebde379c9b3cd18a15ffe6803345ca2138897082
 U
 %tests/credential-verification.test.ts,5/f/5fd7d6b4a5140ba3e0ab9856f149ca4bb4d5d9ee
+H
+tests/skills-nft.test.ts,b/0/b0e7462db3241b1bd84a70ff1ae457f8547884e3
