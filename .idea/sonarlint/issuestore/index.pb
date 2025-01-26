@@ -5,3 +5,5 @@ V
 &contracts/credential-verification.clar,4/2/42f6352878860c2f030316a2872403c67e4ab0be
 I
 contracts/skills-nft.clar,e/b/ebde379c9b3cd18a15ffe6803345ca2138897082
+U
+%tests/credential-verification.test.ts,5/f/5fd7d6b4a5140ba3e0ab9856f149ca4bb4d5d9ee
